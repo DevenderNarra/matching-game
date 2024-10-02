@@ -1,0 +1,15 @@
+.thumbnail-item {
+  background-color: transparent;
+  margin: 10px;
+}
+.thumbnail-item button {
+  background-color: transparent;
+  border-radius: 1rem;
+}
+
+img {
+  height: 200px;
+  width: 250px;
+  margin: 1rem;
+  cursor: pointer;
+}
